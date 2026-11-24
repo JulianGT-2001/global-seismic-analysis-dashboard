@@ -1,7 +1,7 @@
 
 # 🌎 Análisis Exploratorio de Eventos Sísmicos Mundiales (1965–2016)
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?logo=streamlit&logoColor=white)]([LINK_DEPLOYMENT])
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?logo=streamlit&logoColor=white)](https://global-seismic-analysis-dashboard.streamlit.app/)
 
 ## 📌 Descripción del proyecto
 
@@ -15,7 +15,7 @@ La elección de este conjunto de datos se debe a su cobertura temporal y geográ
 
 El proyecto está publicado en Streamlit Community Cloud y puede consultarse directamente desde el siguiente enlace:
 
-**[Acceder al dashboard interactivo](LINK_DEPLOYMENT)**
+**[Acceder al dashboard interactivo](https://global-seismic-analysis-dashboard.streamlit.app/)**
 
 ### Captura de pantalla
 
